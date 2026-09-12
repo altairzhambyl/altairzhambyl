@@ -23,17 +23,8 @@ Software Engineer from Almaty, KZ.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-<br/>
-
-<details>
-<summary>GitHub stats</summary>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kekeront&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</details>
-
 <br/>
 
 #### Let's chat
 
-For DMs, find me on [Telegram @altaircode](https://t.me/altaircode), [LinkedIn](https://linkedin.com/in/altairzhambyl), or drop a message at [altair.icu](https://altair.icu).
+For DMs, find me on [Telegram @altaircode](https://t.me/altaircode), [LinkedIn](https://linkedin.com/in/altairzhambyl).
